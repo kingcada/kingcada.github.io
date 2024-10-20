@@ -1,0 +1,11 @@
+- name: home
+  url: /
+  group: home
+
+- name: publications
+  url: /publications
+  group: publications
+
+- name: contact
+  url: /contact
+  group: contact
