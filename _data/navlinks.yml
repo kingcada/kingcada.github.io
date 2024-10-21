@@ -2,6 +2,10 @@
   url: /
   group: home
 
+- name: research
+  url: /research
+  group: research
+  
 - name: publications
   url: /publications
   group: publications
@@ -9,7 +13,3 @@
 - name: contact
   url: /contact
   group: contact
-
-- name: research
-  url: /research
-  group: research
