@@ -1,0 +1,12 @@
+name: "King Cada"
+description: "The Personal Homepage for King Cada"
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "blog/page:num"
+
+permalink: pretty
+highlighter: rouge
+markdown: kramdown
+kramdown: 
+  parse_block_html: true
