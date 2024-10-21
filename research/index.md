@@ -1,5 +1,5 @@
 ---
-name: research
+name: Research
 layout: default
 group: research
 ---
