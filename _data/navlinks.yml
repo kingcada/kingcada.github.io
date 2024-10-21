@@ -9,3 +9,7 @@
 - name: contact
   url: /contact
   group: contact
+
+- name: research
+  url: /research
+  group: research
