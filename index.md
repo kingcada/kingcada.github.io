@@ -11,7 +11,6 @@ group: home
 
 My scientific curiosity is in understanding the molecular sociology of cellular membranes and organelles with the proteins that shape and transport them. I am currently a Lenfant Postdoctoral Fellow (F32 equivalent) in the laboratory of Structural Cell Biology at the National Institutes of Health led by [Naoko Mizuno](https://www.nhlbi.nih.gov/science/laboratory-structural-cell-biology) where I use cryo-electron tomography and fluorescence live-imaging to gain a comprehensive ultrastructural and dynamic view neuronal membrane processes.  
 <br>
-<br>
 I received my Ph.D. in molecular & cell biology from [UC Berkeley](https://www.berkeley.edu/), supported by a Ruth L. Kirschstein Predoctoral Fellowship (F31), under the mentorship of [James Hurley](https://membrane.berkeley.edu/) and [Carlos Bustamante](https://bustamante.berkeley.edu/). During my graduate training I built and used optical force microscopy coupled with fluorescence to study membrane scission mechanisms employed by a subset of ESCRT proteins <i>in vitro</i>.
 <br>
 <br>
