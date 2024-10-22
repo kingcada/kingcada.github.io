@@ -7,7 +7,7 @@ group: home
 <h1 class="text-center">King Cada, Ph.D.</h1>
 <h2 class="text-center">Lenfant Postdoctoral Fellow NIH/NHLBI</h2>
 
-<p class="lead text-justify">
+<p class="lead text-left">
 
 My scientific curiosity is in trying to understand the molecular sociology between cellular membranes and organelles with the proteins that shape and transport them. Specifically, I study how the interior neuronal landscape changes between normal and pathophysiological states. <br>
 <br>
