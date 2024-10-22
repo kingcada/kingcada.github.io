@@ -4,8 +4,8 @@ layout: default
 group: home
 ---
 
-<h1 class="text-center">King Cada, Ph.D.</h1>
-<h2 class="text-center"><i>Lenfant Postdoctoral Fellow NIH/NHLBI</i></h2>
+<h2 class="text-center">King Cada, Ph.D.</h1>
+<h3 class="text-center"><i>Lenfant Postdoctoral Fellow NIH/NHLBI</i></h3>
 
 <p class="lead text-left">
 
