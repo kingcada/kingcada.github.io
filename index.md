@@ -5,7 +5,7 @@ group: home
 ---
 
 <h1 class="text-center">King Cada, Ph.D.</h1>
-<h2 class="text-center">Lenfant Postdoctoral Fellow NIH/NHLBI</h2>
+<h2 class="text-center"><i>Lenfant Postdoctoral Fellow NIH/NHLBI</i></h2>
 
 <p class="lead text-left">
 
