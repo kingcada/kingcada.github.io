@@ -9,7 +9,7 @@ group: home
 
 <p class="lead text-left">
 
-My scientific curiosity is in trying to understand the molecular sociology between cellular membranes and organelles with the proteins that shape and transport them. Specifically, I study how the interior neuronal landscape changes between normal and pathophysiological states. <br>
+My research interest focuses on unraveling the molecular dynamics between cellular membranes, organelles, and the proteins that govern their structure and transport. Specifically, I investigate how the internal architecture of neurons shifts in response to normal physiological conditions and pathological states. <br>
 <br>
 I am currently a Lenfant Postdoctoral Fellow (F32 equivalent) in the laboratory of Structural Cell Biology at the National Institutes of Health led by [Naoko Mizuno](https://www.nhlbi.nih.gov/science/laboratory-structural-cell-biology) where I use cryo-electron tomography and fluorescence live-imaging to gain a comprehensive ultrastructural and dynamic view of neuronal membrane processes.  
 <br>
