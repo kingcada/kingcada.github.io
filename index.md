@@ -11,9 +11,8 @@ group: home
 
 <p class="lead text-left">
 
-My research interest focuses on unraveling the molecular sociology between cellular membranes, organelles, and the proteins that shape and transport them. Specifically, I investigate how the internal architecture of neurons shifts in response to normal physiological conditions and pathological states. <br>
+I am currently a Lenfant Postdoctoral Fellow (F32 equivalent) in the laboratory of Structural Cell Biology at the National Institutes of Health led by [Naoko Mizuno](https://www.nhlbi.nih.gov/science/laboratory-structural-cell-biology) where I use cryo-electron tomography and fluorescence live-imaging to gain a comprehensive ultrastructural and dynamic view of neuronal membrane processes. My research interest focuses on unraveling the molecular sociology between cellular membranes, organelles, and the proteins that shape and transport them. More specifically, I study how the internal architecture of neurons shifts in response to normal physiological conditions and pathological states. 
 <br>
-I am currently a Lenfant Postdoctoral Fellow (F32 equivalent) in the laboratory of Structural Cell Biology at the National Institutes of Health led by [Naoko Mizuno](https://www.nhlbi.nih.gov/science/laboratory-structural-cell-biology) where I use cryo-electron tomography and fluorescence live-imaging to gain a comprehensive ultrastructural and dynamic view of neuronal membrane processes.  
 <br>
 I received my Ph.D. in molecular & cell biology from [UC Berkeley](https://www.berkeley.edu/), supported by a Ruth L. Kirschstein Predoctoral Fellowship (F31), under the mentorship of [James Hurley](https://membrane.berkeley.edu/) and [Carlos Bustamante](https://bustamante.berkeley.edu/). During my graduate training, I built and used optical force microscopy coupled with fluorescence to study membrane scission mechanisms employed by a subset of ESCRT proteins <i>in vitro</i>.
 <br>
