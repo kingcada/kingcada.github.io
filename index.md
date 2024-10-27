@@ -4,7 +4,8 @@ layout: default
 group: home
 ---
 
-<img src="/static/KC-profile-pic.jpg" class="img-responsive center-block"/>
+<img src="/static/KC-profile_pic.jpg" width="500" height="500" class="img-responsive center-block"/>
+
 <h1 class="text-center">King Cada, Ph.D.</h1>
 <h2 class="text-center"><i>Lenfant Postdoctoral Fellow NIH/NHLBI</i></h2>
 
